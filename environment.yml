@@ -1,0 +1,7 @@
+name: jupyter-cdo
+channels:
+  - conda-forge
+dependencies:
+  - cdo
+  - jupyter
+  - python=3.9
